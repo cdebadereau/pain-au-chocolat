@@ -1,8 +1,14 @@
 body {
   text-align: center;
   background-color: rgb(237, 220, 173);
+  margin: 30px auto;
 }
 
-ul {
+h1 {
+  margin-bottom: 20px;
+}
+
+.navigation-links {
   list-style: none;
+  margin-top: 25px;
 }
